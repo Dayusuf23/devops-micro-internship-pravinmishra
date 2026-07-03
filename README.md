@@ -13,9 +13,9 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
+| **Name** | Dapo Yusuf|
+| **LinkedIn** | [pravin-mishra-aws-trainer](https://medium.com/@sod4luv2004//) |
+| **Location** | Lagos, Nigeria |
 | **Background** | Cloud, DevOps & AI Consultant |
 | **Goal** | Train 10,000+ DevOps professionals |
 
