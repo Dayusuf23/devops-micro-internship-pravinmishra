@@ -25,7 +25,7 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/WEEK_0_01.webp) [Task 1 Screenshot](screenshots/WEEK_0_02.webp) [Task 1 Screenshot](screenshots/WEEK_0_03.webp)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+From the prompt generated from CHATGPT, I am able to understand that a protocol in networking is a set of communication rules that allows devices to communicate and exchange data correctly and how its been used in real life example.
 
 ---
 
@@ -59,7 +59,9 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+In the scenario given in the question, the bookstore says MotivateBooks will be launched and resided in a server somewhere in Finland and will have a unique web address that’s readable by humans, www.motivatebooks.com. When Users need buy a book, the visit the website and then the DNS on the user’s computer translates the web address to the website’s unique IP and transmits the request over TCP to the website where on the servers in FINLAND. Its understood that when the host server receives the request , it packages the response into packets and send it back to the user and their computer unpacks the message and translate in into human readable data.
+
+
 
 ---
 
@@ -91,7 +93,7 @@ EpicReads bookstore has two application versions:
 
 Save your diagram image in the `screenshots` folder and update the file name below.
 
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application Architecture Diagram][Task 3 Screenshot](screenshots/WEEK_0_04.webp)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +104,18 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML
+* BOOSTRAP
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* PYTHON, NODE.JS
+* NODE.JS
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* PostgreSQL
 
 ---
 
@@ -142,7 +144,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS known as Domain Name system can be described as system that translates or interpret the website name into IP addresses so the computer can locate or detect websites on the internet. DNS also acts as the internet phonebook enabling users to access website without memorizing complex IP addresses.
+
+There’re different records that connect to domain name but based on EpicReads, it should use an A RECORD because it is mapping directly to an IPV4 address .
 
 ---
 
@@ -178,7 +182,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
+![VS Code Setup Screenshot][Task 5 Screenshot](screenshots/WEEK_0_05.webp) [Task 1 Screenshot](screenshots/WEEK_0_06.webp)
 
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
@@ -235,19 +239,25 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
-
+Its really been an interesting session so far and I have found Networking and DNS concepts quite easy to understand than I initially expected .
 ---
 
 ### What was difficult?
 
-Add your answer here...
+What was difficult?
+
+Not actually difficult aside from getting familiar with commands and some infrastructure concepts.but I understand that consistency and practice are part of the process
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+What will you improve next week?
+
+I want to improve better on command line confidence, Linux terminal usage and practicing more hands on tasks consistency.
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
+
 
 ---
 

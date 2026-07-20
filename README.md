@@ -15,10 +15,10 @@
 | | |
 |---|---|
 | **Name** | Dapo Yusuf|
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://medium.com/@sod4luv2004//) |
+| **LinkedIn** | [https://www.linkedin.com/in/ibidapo-yusuf-08932b260/](https://medium.com/@sod4luv2004//) |
 | **Location** | Lagos, Nigeria |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Background** | Accounts/ Accounting/Payroll Management/Audit/Book-keeping/Inventory/Invoicing  |
+| **Goal** | connecting coustomers to technology with clarity |
 
 ---
 
@@ -67,8 +67,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+ Week 00 → Internet & Networking Basics 
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) 
 
 <!-- Week 01 → Success Mindset -->
 <!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
@@ -130,7 +130,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved| — | https://medium.com/@sod4luv2004/devops-micro-internship-cohort-3-2b6aa6914899?sharedUserId=sod4luv2004|
 | 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
