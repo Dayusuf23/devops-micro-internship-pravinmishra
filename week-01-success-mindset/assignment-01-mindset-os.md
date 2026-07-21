@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One thing I believe that many people around me would disagree with is that being constantly busy is not the same as making real progress. Society often celebrates long hours, endless meetings, and always being “on,” but I think that focused work, clear priorities, and regular rest produce far better results. I’d rather spend two hours solving an important problem than ten hours looking productive. I believe success comes more from consistency, thoughtful decisions, and discipline than from simply working harder. Many people see slowing down as laziness, but I see it as creating space to think, learn, and make better choices.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistency produces results.
 
 ### Evidence from my life
 
-Add your answer here...
+Even after just my first assignment, I can see that regular practice is more effective than trying to learn everything at once. Progress comes from showing up and learning a little every day.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+    Small mistakes are part of the learning process.
 
 ### Evidence from my life
 
-Add your answer here...
+ I discovered that simple errors such as mistyping a command or misunderstanding a concept are valuable because troubleshooting them helps build confidence and understanding.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Hands-on practice teaches more than theory.
+
 
 ### Evidence from my life
-
-Add your answer here...
+ Reading about networking or DNS gave me a basic understanding, but actually completing assignments and working through practical exercises made the concepts much clearer.
 
 ---
 
@@ -135,7 +135,27 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+By the time many entrepreneurs are still talking about their vision, Clear Track Consult has quietly become one of the names associated with reliable legal verification and court intelligence in Nigeria. What began as a focused effort to improve access to verified court records has grown into a respected business serving law firms, multinational companies, financial institutions, and international background-screening partners.
+
+Few would have predicted this trajectory. Just a few years earlier, the founder was balancing academic studies, navigating significant personal challenges, and building a business with limited resources but a clear sense of purpose. Rather than allowing setbacks to define the future, they became part of the foundation.
+
+Today, Clear Track Consult is recognized for its professionalism in litigation history searches, divorce record verification, certified true copy (CTC) processing, and court document authentication. The company has developed strong operational relationships within the judicial system while maintaining a reputation for integrity, confidentiality, and compliance.
+
+The firm’s client base now extends beyond Nigeria, with partnerships across the Middle East, Europe, and other African markets. What distinguishes Clear Track Consult is not only speed or access, but the confidence clients place in the accuracy of its reports. In an industry where trust is everything, that reputation has become its greatest asset.
+
+Beyond business growth, the founder has emerged as a thoughtful voice on ethics, governance, and due diligence. Speaking at conferences and industry forums, they advocate for stronger verification standards and greater transparency in legal and corporate processes. Their insights are informed by practical experience rather than theory alone.
+
+Those close to the journey describe a leader who is calmer, more disciplined, and more deliberate than in earlier years. The drive remains, but it is now accompanied by patience, strategic thinking, and an ability to build capable teams instead of carrying every responsibility alone.
+
+Financially, the transformation is equally evident. The company has expanded its services, invested in technology, and created employment opportunities for professionals specializing in legal research, compliance, and investigations. Growth has been steady rather than explosive, reflecting a commitment to sustainable business practices.
+
+Away from the office, the founder has become known for mentoring aspiring entrepreneurs and encouraging young professionals to build businesses rooted in integrity rather than shortcuts. Their story resonates because it is not one of overnight success, but of consistent progress through discipline, resilience, and continuous learning.
+
+Perhaps the most remarkable change, however, is less visible. The person behind Clear Track Consult no longer measures success solely by revenue or recognition. Success is now defined by impact: helping clients make informed decisions, strengthening confidence in legal verification, and proving that credibility can be a competitive advantage.
+
+Looking back, the challenges that once seemed overwhelming are now viewed as turning points. They did not disappear; they became the experiences that shaped a more resilient entrepreneur and a more grounded leader.
+
+The next chapter for Clear Track Consult appears less about chasing opportunity and more about setting the standard for legal verification services across Africa. If current momentum continues, the company is well positioned to become one of the continent’s most trusted names in court records verification and due diligence.
 
 ### Public Link
 
@@ -173,7 +193,15 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes, there were moments when I took shortcuts or acted in ways that didn’t fully align with the standards I wanted to live by. They may not have been illegal, but they weren’t consistent with the person I wanted to become.
+
+At first, the decision seemed practical—faster, easier, or necessary under pressure. But the relief didn’t last. What remained was an uncomfortable feeling that I had compromised something more valuable than time or convenience: my integrity.
+
+The regret wasn’t just about what I did; it was about realizing that I had acted below my own standards. Shame came from seeing the gap between who I believed I was and how I had behaved. Guilt lingered because I knew I could have chosen differently.
+
+Those feelings were difficult to carry. They made every achievement earned through that shortcut feel less satisfying, because there was always a quiet reminder that it could have been done the right way. It wasn’t fear of being caught that hurt the most—it was disappointing myself.
+
+Over time, those experiences became lessons rather than labels. They reinforced a simple truth: integrity is built in small decisions, especially when no one is watching. The regret, shame, and guilt were painful, but they also became the motivation to be more disciplined, more honest, and more intentional in every decision that followed.
 
 ---
 
@@ -199,16 +227,19 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits By James Clear
+
+![Book](./screenshots/atomic Book.jpeg)
+
+2. Deep work by  Cal Newport
+3. The Pyscology of money By Morgan Housel
+4. The 7 habits of highly effective people By Stephen R. Covey
+5. How to win friends and influnce people By Dale Carnegie
+6. The Devops handbook By Gene Kim, Jez Humble, Patrick Debois & John Willis
+7. The phoenix project By Gene Kim, Kevin Behr & George Spafford
+8. Start with why By Simon Sinek
+9. The lean startup By Eric Ries
+10. Thinking, fast and slow By Daniel Kahneman
 
 ---
 
@@ -237,16 +268,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Devops skills mastered
+* Hands-on labs completed
+* Assignments completed
+* Projects built and documented
+*  ⁠GitHub commits and repositories updated
+*  ⁠Certificates earned
+* Daily deep work sessions
+* hysical exercise and workout
+* Networking and professional connection
+* ⁠Business income and expenses
 
 ---
 
@@ -272,7 +303,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+yes
 
 ---
 
@@ -290,7 +321,14 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday: 60 min DMI deep work (Linux / terminal practice)
+Tuesday: 60 min DMI assignment or lab practice
+Wednesday: 60 min networking / cloud concepts
+Thursday: 60 min hands-on practice + documentation
+Friday: Light review (30 min) + organize notes
+Saturday: DMI live session  project work (8 hrs)
+Sunday: Weekly review, planning, and rest (45–60 min)
+
 
 ---
 
@@ -298,11 +336,21 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday: 7:30 PM – 8:30 PM
+Tuesday: 7:30 PM – 8:30 PM
+Wednesday: 7:30 PM – 8:30 PM
+Thursday: 7:30 PM – 8:30 PM
+Saturday: 5:30 AM – 1:00 PM
+Sunday: 6:00 PM – 7:00 PM (review only)
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+Deep work sessions: 4
+Live / practical session: 1
+Weekly review session: 1
+Total: 6 learning sessions per weekTotal: 6 learning sessions per week
+
 
 ---
 
@@ -316,7 +364,7 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+during my learning time, my phine will be on DND
 
 ---
 
@@ -324,15 +372,15 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I can really do this if i keep focus
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+tired and my mind on my phone 
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+making sure my phone is on DND
 
 ### LinkedIn Post
 
